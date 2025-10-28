@@ -14,7 +14,7 @@ This package provides various compression algorithms.
 [![Go](https://github.com/klauspost/compress/actions/workflows/go.yml/badge.svg)](https://github.com/klauspost/compress/actions/workflows/go.yml)
 [![Sourcegraph Badge](https://sourcegraph.com/github.com/klauspost/compress/-/badge.svg)](https://sourcegraph.com/github.com/klauspost/compress?badge)
 
-# package usage
+# package usage  
 
 Use `go get github.com/klauspost/compress@latest` to add it to your project.
 
@@ -683,4 +683,5 @@ Here are other packages of good quality and pure Go (no cgo wrappers or autoconv
 # license
 
 This code is licensed under the same conditions as the original Go code. See LICENSE file.
+
 
